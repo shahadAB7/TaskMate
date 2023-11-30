@@ -74,12 +74,12 @@ Sure! I'd be happy to explain how to use a task mate application. Here are some 
 
 Contributors:
 Worked with Reham Mohammed Asiri
-With the id 444806431 that put effort into : 
+With the id 444806431 that put effort into:
+
 2. Repository Setup
 3. Code Submission 
 
 Contact Information:
 Contact us:
 444806431@kku.edu.sa
-444806933@kku.edu.sa
 444806933@kku.edu.sa
