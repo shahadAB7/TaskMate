@@ -73,12 +73,13 @@ Sure! I'd be happy to explain how to use a task mate application. Here are some 
 8. Stay Consistent: To make the most of a task mate application, try to use it regularly and consistently. Make it a habit to update your tasks, check for new assignments, and stay on top of your to-do list.
 
 Contributors:
-Worked with Shahad Ahmad Bijad
-With the id 444806933 that put effort into : 
-1. GitHub Account Creation
-4. Writing README File
+Worked with Reham Mohammed Asiri
+With the id 444806431 that put effort into : 
+2. Repository Setup
+3. Code Submission 
 
 Contact Information:
 Contact us:
 444806431@kku.edu.sa
+444806933@kku.edu.sa
 444806933@kku.edu.sa
